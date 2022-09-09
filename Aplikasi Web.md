@@ -1,8 +1,11 @@
 # Media Interaktif untuk pembelajaran Persebaran Flora dan Fauna di Indonesia (Berbasis web)
 
->Pengenalan Jenis-jenis hewan berdasarkan makanannya (Karnivora, herbivora, omnivora)
+>Persebaran Flora & Fauna di Indonesia 
 
->Persebaran Fauna 
+>Pengelompokan Jenis hewan berdasarkan makanannya (Karnivora, herbivora, omnivora)
 
->web front end developer, full js
+>Materi SD / SMP
+
+
+
 
